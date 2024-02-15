@@ -5,4 +5,7 @@ Resolusi Kedepan di Tahun 2024
 * nyoba elequean 
 
 == Belajar Sql lagi ==
+* Inner Join 
+* Left Join 
+
 
