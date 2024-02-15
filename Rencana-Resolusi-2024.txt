@@ -4,5 +4,9 @@ Resolusi Kedepan di Tahun 2024
 * nyoba Blade 
 * nyoba elequean 
 
-== Belajar Sql lagi ==
+== Belajar DevOps ==
+* Docker 
+* Kubernetes
+
+
 
